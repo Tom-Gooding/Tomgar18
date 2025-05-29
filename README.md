@@ -20,13 +20,12 @@ Scientific Writing | Literature Synthesis | Grant Writing | Teaching Pedagogy | 
 - Writing and communication skills (there's always room for improvement).
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 💬 **Ask me about**
 - The relationship between sleep and (athletic) performance
-- 
+- What breaking your foot 3x in a year (10 months) is like?
+- How to improve sleep when traveling and reduce your jet lag
 
 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Email: Tom.Gooding18@gmail.com
+[LinkedIn](https://www.linkedin.com/in/thomas-gooding-phd-atc-cscs-81767053/)
