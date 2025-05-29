@@ -1,13 +1,17 @@
 # About me
+I am a research scientist in occupational sleep medicine where I primarily provide fatigue countermeasures guidance and insights into sleep & circadian science for the aviation industry. I am actively involved in a collaborative, multidisciplinary research project (TriSafe) with the goal of understanderstanding—and ultimately mitigating—the risk factors of cardiac emergencies in Ironman triathlons. I have a PhD in Nutrition & Exercise Physiology from Washington State University ('24) where I investigated how excessive training-related stress causes a maladaptive training response known as overtraining syndrome. 
 
-Here are some ideas to get you started:
+I have over a decade of clinical experience working in Sports Medicine and Human Performance as an Athletic Trainer and Performance Coach where I closely worked with professional athletes (Football, Hockey) and collegiate athletes (Wrestling, Soccer, Lacrosse, Track & Field). 
+
+I have experience in:
+
+Scientific Writing | Literature Synthesis | Grant Writing | Teaching Pedagogy | Data Analysis | Data Management | Presentations | Multi-tasking | Project Management | Research Collaboration | Phlebotomy | Proteomics | Statistical Analysis | Python | SQL | Lung Function Testing | Website Management | Content Creation
 
 🔭 **I’m currently working on**
 - Final revisions of a journal manuscript examining sleep characteristics and sleep regularity in recreationally active adults during a three-week high-intensity training protocol (building off of my dissertation).
 - Providing fatigue risk countermeasures guidance to pilots in the aviation industry (occupational sleep medicine).
 - Investigating the underlying risks of cardiac emergencies during Ironman triathlons
 - Qualiative data analysis of focus group transcripts regarding perceived risk of injury during Ironman triathlon competition
-- 
 
 🌱 **I’m currently learning**
 - Refining my Python coding skills
@@ -18,7 +22,11 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+💬 **Ask me about**
+- The relationship between sleep and (athletic) performance
+- 
+
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
