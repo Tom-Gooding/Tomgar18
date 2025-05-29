@@ -28,4 +28,4 @@ Scientific Writing | Literature Synthesis | Grant Writing | Teaching Pedagogy | 
 
 - 📫 How to reach me: ...
 Email: Tom.Gooding18@gmail.com
-[LinkedIn](https://www.linkedin.com/in/thomas-gooding-phd-atc-cscs-81767053/)
+LinkedIn [LinkedIn](https://www.linkedin.com/in/thomas-gooding-phd-atc-cscs-81767053/)
