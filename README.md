@@ -5,7 +5,7 @@ I have over a decade of clinical experience working in Sports Medicine and Human
 
 I have experience in:
 
-Scientific Writing | Literature Synthesis | Grant Writing | Teaching Pedagogy | Data Analysis | Data Management | Presentations | Multi-tasking | Project Management | Research Collaboration | Phlebotomy | Proteomics | Statistical Analysis | Python | SQL | Lung Function Testing | Website Management | Content Creation
+Written and Verbal Communication | Scientific Writing | Literature Synthesis & Appraisal | Cross-functional Collaboration | Project Management | Teaching Pedagogy | Data Management | Statistics | Data Analysis | Python | SPSS | Problem-Solving | Multi-tasking | Research Collaboration | Proteomics | Clinical Exercise and Lung Function Testing | Website Management | Content Creation 
 
 🔭 **I’m currently working on**
 - Final revisions of a journal manuscript examining sleep characteristics and sleep regularity in recreationally active adults during a three-week high-intensity training protocol (building off of my dissertation).
